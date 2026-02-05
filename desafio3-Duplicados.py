@@ -8,7 +8,7 @@ def duplicate_check(numbers):
         else:
             seen.add(number)
 
-    return list(duplicates) 
+    return duplicates
 
     
 
