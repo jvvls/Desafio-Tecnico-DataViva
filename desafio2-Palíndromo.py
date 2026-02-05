@@ -2,7 +2,7 @@ def invert_string(word):
     inverted_word = ""
 
     for char in word:
-        inverted_word = char + inverted_word  # Pega o charactere atual e poe primeiro num novo string 
+        inverted_word = char + inverted_word  # Pega o charactere atual e poe primeiro em um  novo string 
 
     return inverted_word
 
