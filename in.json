@@ -1,0 +1,6 @@
+[
+  { "categoria": "Alimentação", "valor": 10 },
+  { "categoria": "Transporte", "valor": 5 },
+  { "categoria": "Alimentação", "valor": 20 },
+  { "categoria": "Lazer", "valor": 50 }
+]
